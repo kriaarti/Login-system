@@ -1,0 +1,52 @@
+body{
+    background-image: url('http://C:/Users/ACER/Downloads/gettyimages-1282301350-612x612.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.form{
+    margin-left: 400px;
+    height: 500px;
+    width: 400px;
+    border:1px solid black;
+    padding-right: 40px;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+.para{
+    height: 100px;
+    width: 438px;
+    border:1px solid black;
+    
+    background-color: blue;
+}
+p{
+  font-family: 'franklin gothie medium','arial narrow', arial,sans-serif;
+  font-size: larger;
+  margin-top: 100px;
+  text-align: center;
+}
+#company{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+input[type="numbers"]{
+    margin-top: 30px;
+}
+
+
+button{
+    margin-left: 150px;
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin-left: 150px;
+    margin-top: 30px;
+    margin-bottom:10px;
+}

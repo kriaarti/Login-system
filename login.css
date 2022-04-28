@@ -1,0 +1,55 @@
+body{
+    background-image: url('http://C:/Users/ACER/Downloads/gettyimages-1282301350-612x612.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.form{
+    margin-left: 400px;
+    height: 500px;
+    width: 500px;
+    border:1px solid black;
+    padding-right: 40px;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+input[type=text],
+
+input[type=password]{
+    width: 100%;
+    padding: 12px;
+    border:1px solid #ccc;
+    border-radius:5px;
+    margin:10px;
+    margin-right: 40px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+#forgot{
+    margin-left: 10px;
+    background-color: crimson;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: larger;
+
+}
+#submit{
+    background-color: skyblue;
+    padding: 10px;
+   font-size: larger;
+    
+   
+    border-radius:5px;
+    margin-left:200px;
+}
+
+.login{
+    height: 50px;
+    padding: 20px;
+    width: 100%;
+    background-color: blue;
+}
+button>a{
+    text-decoration: none;
+}

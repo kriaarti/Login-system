@@ -1,0 +1,42 @@
+body{
+    background-image: url('http://C:/Users/ACER/Downloads/gettyimages-1282301350-612x612.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.form{
+    margin-left: 400px;
+    height: 600px;
+    width: 600px;
+}
+input[type=text],
+input[type=numbers],
+input[type=email],
+input[type=numbers],
+input[type=password]{
+    width: 100%;
+    padding: 12px;
+    border:1px solid #ccc;
+    border-radius:5px;
+    margin:10px;
+}
+button{
+    background-color: rgb(79,109,34);
+    padding: 10px;
+    width: 100%;
+    text-decoration: none;
+    border:1px solid #ccc;
+    border-radius:5px;
+    margin:10px;
+}
+#create{
+    margin-left: 350px;
+}
+h1{
+    word-spacing: 10px;
+    text-decoration: underline;
+}
+button>a{
+    text-decoration: none;
+}
